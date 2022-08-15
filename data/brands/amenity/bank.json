@@ -357,7 +357,7 @@
       "displayName": "Alpha Bank",
       "id": "alphabank-96fa25",
       "locationSet": {
-        "include": ["gb", "gr", "lu"]
+        "include": ["al", "gb", "gr", "lu", "ro"]
       },
       "tags": {
         "amenity": "bank",
