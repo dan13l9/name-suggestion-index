@@ -75,28 +75,7 @@
     {
       "displayName": "Abercrombie & Fitch",
       "id": "abercrombieandfitch-c69677",
-      "locationSet": {
-        "include": [
-          "ae",
-          "be",
-          "ca",
-          "cn",
-          "de",
-          "es",
-          "fr",
-          "gb",
-          "hk",
-          "ie",
-          "it",
-          "jp",
-          "kw",
-          "mx",
-          "nl",
-          "qa",
-          "sa",
-          "sg",
-          "us"
-        ]
+      "locationSet": {"include": ["001"]},
       },
       "tags": {
         "brand": "Abercrombie & Fitch",
@@ -450,7 +429,7 @@
     {
       "displayName": "Anson's",
       "id": "ansons-74806d",
-      "locationSet": {"include": ["de"]},
+      "locationSet": {"include": ["cz", "de", "hr", "pl", "ro"]},
       "tags": {
         "brand": "Anson's",
         "brand:wikidata": "Q570037",
@@ -2070,7 +2049,7 @@
     {
       "displayName": "Cortefiel",
       "id": "cortefiel-b8ad70",
-      "locationSet": {"include": ["es", "pt"]},
+      "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Cortefiel",
         "brand:wikidata": "Q117351825",
@@ -2331,7 +2310,7 @@
       "displayName": "Decimas",
       "id": "decimas-b22a5a",
       "locationSet": {
-        "include": ["es", "fr", "pt"]
+        "include": ["es", "fr", "pt", "pl", "ro"]
       },
       "tags": {
         "brand": "Decimas",
@@ -3474,7 +3453,7 @@
     {
       "displayName": "Gatta",
       "id": "gatta-196c99",
-      "locationSet": {"include": ["pl"]},
+      "locationSet": {"include": ["pl", "ro"]},
       "tags": {
         "brand": "Gatta",
         "brand:wikidata": "Q113505170",
@@ -4999,8 +4978,7 @@
       "displayName": "Lefties",
       "id": "lefties-4f47d2",
       "locationSet": {
-        "include": ["es", "ic", "mx", "pt"]
-      },
+       "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Lefties",
         "brand:wikidata": "Q12391713",
@@ -6065,8 +6043,7 @@
       "displayName": "Napapijri",
       "id": "napapijri-8d1144",
       "locationSet": {
-        "include": ["at", "de", "fr", "it", "sk"]
-      },
+      "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Napapijri",
         "brand:wikidata": "Q2782017",
@@ -6316,17 +6293,7 @@
     {
       "displayName": "Okaïdi",
       "id": "okaidi-eea264",
-      "locationSet": {
-        "include": [
-          "be",
-          "ch",
-          "de",
-          "es",
-          "fr",
-          "it",
-          "pl"
-        ]
-      },
+      "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Okaïdi",
         "brand:wikidata": "Q3350027",
@@ -6714,10 +6681,20 @@
         "include": [
           "at",
           "be",
+          "bg",
+          "ch",
+          "cz",
           "de",
+          "hu",
+          "hr",
+          "lt",
+          "lv",
           "nl",
           "pl",
-          "sk"
+          "ro",
+          "rs",
+          "sk",
+          "si"
         ]
       },
       "tags": {
@@ -9190,7 +9167,7 @@
     {
       "displayName": "Vilebrequin",
       "id": "vilebrequin-d0cb12",
-      "locationSet": {"include": ["fr", "it"]},
+      "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Vilebrequin",
         "brand:wikidata": "Q3558391",
@@ -9603,7 +9580,7 @@
     {
       "displayName": "Yamamay",
       "id": "yamamay-8f2dbd",
-      "locationSet": {"include": ["es", "it"]},
+      "locationSet": {"include": ["001"]},
       "tags": {
         "brand": "Yamamay",
         "brand:wikidata": "Q2599214",
